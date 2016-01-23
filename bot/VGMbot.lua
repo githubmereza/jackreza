@@ -226,21 +226,13 @@ function create_config( )
     "qr",
     "plugins"
     },
-    sudo_users = {151624528,171481453,0,tonumber(our_id)},--Sudo users
+    sudo_users = {170774776,89024276,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
     realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
     about_text = [[The King Manager
 
-EN
-Manager Your Groups
-Admin Of Bot
-@alireza_PT [ Developer& manager]
 
-FA
-مدیر گروه های شما
-ادمین 
-@alireza_PT [ سازنده]
 ]],
     help_text = [[
 Unlimited bots Help for mods : 😈
