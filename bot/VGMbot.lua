@@ -226,7 +226,7 @@ function create_config( )
     "qr",
     "plugins"
     },
-    sudo_users = {170774776,89024276,0,tonumber(our_id)},--Sudo users
+    sudo_users = {170774776,111041070,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
     realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
